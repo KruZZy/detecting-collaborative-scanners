@@ -1,0 +1,2 @@
+,Unnamed: 0,src_ip,subnet,active_days,asn,country,city,scan_length_seconds,median_time_diff,distinct_src_ports,distinct_dest_ports,q1_prev_ip,median_prev_ip,q3_prev_ip,distinct_ips,total_hits,probes_per_ip,distinct_fingerprints,distinct_payloads,avg_payload_length,q1q3_delta,top_port,top_fingerprint,generation_algorithm,top_start_hour,top_end_hour,label
+771910,771953,3093952504.0,3093952256.0,20,6939.0,US,Sunnyvale,66739.6,0.0,11746.6,48.55,-17082700.1,34.075,17081851.1,13507.8,15929.3,1.1824028770224264,1.0,1.4,1.1981419827442563,-849.0,80.0,1.0,5.0,1.0,19.0,579

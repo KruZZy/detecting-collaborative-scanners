@@ -1,0 +1,2 @@
+,Unnamed: 0,src_ip,subnet,active_days,asn,country,city,scan_length_seconds,median_time_diff,distinct_src_ports,distinct_dest_ports,q1_prev_ip,median_prev_ip,q3_prev_ip,distinct_ips,total_hits,probes_per_ip,distinct_fingerprints,distinct_payloads,avg_payload_length,q1q3_delta,top_port,top_fingerprint,generation_algorithm,top_start_hour,top_end_hour,label
+294800,294816,1571708778.0,1571708672.0,20,202425.0,NL,Amsterdam,86385.35,600.0,142.0,346.0,-17979997.3,62.075,17979878.15,54893.7,142011.4,2.5885333448900747,3.7,1.0,0.0,-119.15,110.0,11.0,5.0,0.0,23.0,5381

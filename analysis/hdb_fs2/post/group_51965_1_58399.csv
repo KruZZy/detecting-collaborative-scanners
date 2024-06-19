@@ -1,0 +1,3 @@
+,Unnamed: 0,src_ip,subnet,active_days,asn,country,city,scan_length_seconds,median_time_diff,distinct_src_ports,distinct_dest_ports,q1_prev_ip,median_prev_ip,q3_prev_ip,distinct_ips,total_hits,probes_per_ip,distinct_fingerprints,distinct_payloads,avg_payload_length,q1q3_delta,top_port,top_fingerprint,generation_algorithm,top_start_hour,top_end_hour,label
+479142,479162,1981969853.0,1981969664.0,20,4766.0,KR,Gapyeong County,86336.55,15500.0,22.0,9.0,-16188298.0,157.875,16188760.7,3618.15,3911.1,1.0829668002991262,1.15,1.0,0.0,462.7,22.0,10.0,5.0,0.0,23.0,51965
+554539,554571,2105813412.0,2105813248.0,20,4766.0,KR,Seongnam-si,86276.2,43900.0,10.95,3.0,-16188557.9,111.375,15294574.2,1341.55,1419.9,1.0617040823351778,1.0,1.0,0.0,-893983.7,22.0,10.0,5.0,0.0,23.0,51965

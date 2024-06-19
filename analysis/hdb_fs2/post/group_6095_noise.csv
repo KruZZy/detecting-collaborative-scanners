@@ -1,0 +1,4 @@
+,Unnamed: 0,src_ip,subnet,active_days,asn,country,city,scan_length_seconds,median_time_diff,distinct_src_ports,distinct_dest_ports,q1_prev_ip,median_prev_ip,q3_prev_ip,distinct_ips,total_hits,probes_per_ip,distinct_fingerprints,distinct_payloads,avg_payload_length,q1q3_delta,top_port,top_fingerprint,generation_algorithm,top_start_hour,top_end_hour,label
+819289,819332,3253306924.0,3253306880.0,8,210281.0,CH,Zurich,76127.5,1000.0,2.5,13.0,-15161.5,32.375,15165.5,28007.25,53040.75,1.7911566867329207,2.25,1.0,0.0,4.0,1080.0,11.0,5.0,0.0,23.0,6095
+819823,819866,3257184624.0,3257184512.0,8,210281.0,DE,,76127.75,1000.0,2.5,13.0,-15029.375,71.625,15049.875,28126.0,53452.625,1.797935157528453,2.125,1.0,0.0,20.5,8080.0,11.0,5.0,0.0,23.0,6095
+819824,819867,3257184625.0,3257184512.0,8,210281.0,DE,,76128.125,1000.0,2.5,13.0,-15090.125,-50.5,15128.375,28084.625,53367.125,1.7975914384748846,1.875,1.0,0.0,38.25,8080.0,11.0,5.0,0.0,23.0,6095

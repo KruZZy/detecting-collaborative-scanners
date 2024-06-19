@@ -1,0 +1,2 @@
+,Unnamed: 0,src_ip,subnet,active_days,asn,country,city,scan_length_seconds,median_time_diff,distinct_src_ports,distinct_dest_ports,q1_prev_ip,median_prev_ip,q3_prev_ip,distinct_ips,total_hits,probes_per_ip,distinct_fingerprints,distinct_payloads,avg_payload_length,q1q3_delta,top_port,top_fingerprint,generation_algorithm,top_start_hour,top_end_hour,label
+255211,255224,1412838389.0,1412838144.0,20,51396.0,NL,Eygelshoven,86386.0,0.0,5.15,1.0,-22816.25,9052.625,17969224.65,61917.1,263867.2,4.264945692471107,2.95,1.0,0.0,17946408.4,8787.0,11.0,6.0,0.0,23.0,42031

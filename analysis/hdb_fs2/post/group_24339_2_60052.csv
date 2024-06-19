@@ -1,0 +1,3 @@
+,Unnamed: 0,src_ip,subnet,active_days,asn,country,city,scan_length_seconds,median_time_diff,distinct_src_ports,distinct_dest_ports,q1_prev_ip,median_prev_ip,q3_prev_ip,distinct_ips,total_hits,probes_per_ip,distinct_fingerprints,distinct_payloads,avg_payload_length,q1q3_delta,top_port,top_fingerprint,generation_algorithm,top_start_hour,top_end_hour,label
+95501,95506,660981355.0,660981248.0,20,37963.0,CN,Beijing,86328.7,15550.0,2706.85,2.0,-33283.45,0.0,33643.1,2431.9,3444.75,1.4246108807844848,1.1,1.0,0.0,359.65,22.0,11.0,5.0,0.0,23.0,24339
+95555,95560,661206072.0,661206016.0,20,37963.0,CN,Beijing,86341.9,16125.0,3115.3,2.0,-14392353.75,0.0,14391895.05,3307.8,3736.9,1.1317145244621707,1.1,1.0,0.0,-458.7,22.0,11.0,5.0,0.0,23.0,24339

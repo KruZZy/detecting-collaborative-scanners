@@ -1,0 +1,2 @@
+,Unnamed: 0,src_ip,subnet,active_days,asn,country,city,scan_length_seconds,median_time_diff,distinct_src_ports,distinct_dest_ports,q1_prev_ip,median_prev_ip,q3_prev_ip,distinct_ips,total_hits,probes_per_ip,distinct_fingerprints,distinct_payloads,avg_payload_length,q1q3_delta,top_port,top_fingerprint,generation_algorithm,top_start_hour,top_end_hour,label
+887127,887172,3697102485.0,3697102336.0,1,4766.0,KR,Dobong-gu,7.0,2000.0,1.0,1.0,0.0,0.0,0.0,1.0,4.0,4.0,1.0,1.0,0.0,0.0,1807.0,11.0,4.0,17.0,17.0,102420

@@ -1,0 +1,2 @@
+,Unnamed: 0,src_ip,subnet,active_days,asn,country,city,scan_length_seconds,median_time_diff,distinct_src_ports,distinct_dest_ports,q1_prev_ip,median_prev_ip,q3_prev_ip,distinct_ips,total_hits,probes_per_ip,distinct_fingerprints,distinct_payloads,avg_payload_length,q1q3_delta,top_port,top_fingerprint,generation_algorithm,top_start_hour,top_end_hour,label
+128018,128023,758664843.0,758664704.0,1,63949.0,US,Richardson,758.0,5000.0,2.0,1.0,0.0,0.0,0.0,1.0,12.0,12.0,1.0,1.0,0.0,0.0,443.0,11.0,4.0,6.0,6.0,87381

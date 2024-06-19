@@ -1,0 +1,4 @@
+,Unnamed: 0,src_ip,subnet,active_days,asn,country,city,scan_length_seconds,median_time_diff,distinct_src_ports,distinct_dest_ports,q1_prev_ip,median_prev_ip,q3_prev_ip,distinct_ips,total_hits,probes_per_ip,distinct_fingerprints,distinct_payloads,avg_payload_length,q1q3_delta,top_port,top_fingerprint,generation_algorithm,top_start_hour,top_end_hour,label
+788926,788969,3146623138.0,3146622976.0,4,8151.0,MX,Cabo San Lucas,6821.0,7750.0,113.75,1.0,-14139.25,336.75,15192.5,114.0,114.0,1.0,1.0,1.0,0.0,1053.25,80.0,11.0,5.0,2.0,4.0,65826
+796408,796451,3164999289.0,3164999168.0,4,14061.0,NL,Amsterdam,6871.5,0.0,2.0,2.0,-13084.5,-5.875,13142.5,18492.0,36937.75,1.9962484842285195,1.5,1.0,0.0,58.0,2375.0,11.0,5.0,0.0,2.0,65826
+815162,815205,3224007863.0,3224007680.0,4,1101.0,NL,,7358.5,1750.0,281.0,1.25,-36.0,0.25,36.25,253.25,1188.0,3.7986868186323095,1.0,1.0,0.0,0.25,80.0,11.0,4.0,10.0,11.0,65826

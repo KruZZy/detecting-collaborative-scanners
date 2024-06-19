@@ -1,0 +1,4 @@
+,Unnamed: 0,src_ip,subnet,active_days,asn,country,city,scan_length_seconds,median_time_diff,distinct_src_ports,distinct_dest_ports,q1_prev_ip,median_prev_ip,q3_prev_ip,distinct_ips,total_hits,probes_per_ip,distinct_fingerprints,distinct_payloads,avg_payload_length,q1q3_delta,top_port,top_fingerprint,generation_algorithm,top_start_hour,top_end_hour,label
+146484,146489,793554713.0,793554688.0,20,45102.0,HK,Hong Kong,85301.3,2650.0,4017.85,1.75,-12211.45,0.0,12086.3,5136.05,17433.85,5.66712595935539,1.1,1.0,0.0,-125.15,2222.0,11.0,5.0,0.0,23.0,22105
+146485,146490,793554827.0,793554688.0,20,45102.0,HK,Hong Kong,85818.0,2100.0,3815.7,1.6,-6170.4,0.0,6127.05,4329.75,16871.4,4.488025620789102,1.2,1.0,0.0,-43.35,2222.0,11.0,4.0,0.0,23.0,22105
+146503,146508,793556994.0,793556992.0,20,45102.0,HK,Hong Kong,86323.35,2250.0,3347.15,1.5,-337.7,0.0,329.2,3749.3,16633.75,4.445925590616668,1.15,1.0,0.0,-8.5,2222.0,11.0,4.0,0.0,23.0,22105

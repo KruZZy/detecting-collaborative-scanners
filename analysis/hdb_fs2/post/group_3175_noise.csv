@@ -1,0 +1,4 @@
+,Unnamed: 0,src_ip,subnet,active_days,asn,country,city,scan_length_seconds,median_time_diff,distinct_src_ports,distinct_dest_ports,q1_prev_ip,median_prev_ip,q3_prev_ip,distinct_ips,total_hits,probes_per_ip,distinct_fingerprints,distinct_payloads,avg_payload_length,q1q3_delta,top_port,top_fingerprint,generation_algorithm,top_start_hour,top_end_hour,label
+151015,151020,822931751.0,822931712.0,1,24940.0,DE,,17873.0,0.0,26473.0,1.0,-26050.0,2393.5,38779.0,72311.0,78541.0,1.086155633306136,1.0,1.0,0.0,12729.0,8080.0,1.0,6.0,1.0,6.0,3175
+151021,151026,822968365.0,822968320.0,1,24940.0,DE,Nuremberg,18551.0,0.0,26441.0,1.0,-26951.0,3176.5,51155.0,71956.0,77572.0,1.0780476958141083,1.0,1.0,0.0,24204.0,8080.0,1.0,6.0,1.0,6.0,3175
+222017,222025,1091922201.0,1091922176.0,1,24940.0,FI,Helsinki,14616.0,0.0,25828.0,1.0,-21776.0,2631.0,37112.0,61970.0,69547.0,1.1222688397611749,1.0,1.0,0.0,15336.0,8080.0,1.0,6.0,1.0,5.0,3175

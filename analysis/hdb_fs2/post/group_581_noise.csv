@@ -1,0 +1,2 @@
+,Unnamed: 0,src_ip,subnet,active_days,asn,country,city,scan_length_seconds,median_time_diff,distinct_src_ports,distinct_dest_ports,q1_prev_ip,median_prev_ip,q3_prev_ip,distinct_ips,total_hits,probes_per_ip,distinct_fingerprints,distinct_payloads,avg_payload_length,q1q3_delta,top_port,top_fingerprint,generation_algorithm,top_start_hour,top_end_hour,label
+874559,874604,3638218359.0,3638218240.0,20,6939.0,US,Cazadero,67216.95,0.0,10516.8,44.0,-17081858.85,50.15,17977132.05,11885.1,13207.55,1.1094222498858377,1.0,1.5,1.1598215656921556,895273.2,80.0,1.0,5.0,1.0,19.0,581

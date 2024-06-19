@@ -1,0 +1,3 @@
+,Unnamed: 0,src_ip,subnet,active_days,asn,country,city,scan_length_seconds,median_time_diff,distinct_src_ports,distinct_dest_ports,q1_prev_ip,median_prev_ip,q3_prev_ip,distinct_ips,total_hits,probes_per_ip,distinct_fingerprints,distinct_payloads,avg_payload_length,q1q3_delta,top_port,top_fingerprint,generation_algorithm,top_start_hour,top_end_hour,label
+27848,27848,86662183.0,86662144.0,10,203727.0,SE,Stockholm,82605.1,1000.0,2.2,13.0,-15080.2,-19.9,15086.1,31656.0,60954.7,1.9142690799385456,2.3,1.0,0.0,5.9,999.0,11.0,5.0,0.0,23.0,4451
+27849,27849,86662258.0,86662144.0,10,203727.0,SE,Stockholm,70143.7,200.0,2.4,16.4,-14966.9,59.0,14904.1,31865.4,141223.0,3.80941248884767,2.5,1.0,0.0,-62.8,8081.0,11.0,5.0,0.0,23.0,4451

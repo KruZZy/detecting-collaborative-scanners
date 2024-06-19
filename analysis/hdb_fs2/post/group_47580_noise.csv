@@ -1,0 +1,2 @@
+,Unnamed: 0,src_ip,subnet,active_days,asn,country,city,scan_length_seconds,median_time_diff,distinct_src_ports,distinct_dest_ports,q1_prev_ip,median_prev_ip,q3_prev_ip,distinct_ips,total_hits,probes_per_ip,distinct_fingerprints,distinct_payloads,avg_payload_length,q1q3_delta,top_port,top_fingerprint,generation_algorithm,top_start_hour,top_end_hour,label
+855815,855860,3419212229.0,3419212032.0,20,45903.0,VN,,83755.55,2625.0,66.35,1.0,0.0,0.0,0.0,66.4,265.65,4.001984126984127,1.0,1.0,0.0,0.0,22.0,11.0,4.0,0.0,23.0,47580

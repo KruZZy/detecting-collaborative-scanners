@@ -1,0 +1,4 @@
+,Unnamed: 0,src_ip,subnet,active_days,asn,country,city,scan_length_seconds,median_time_diff,distinct_src_ports,distinct_dest_ports,q1_prev_ip,median_prev_ip,q3_prev_ip,distinct_ips,total_hits,probes_per_ip,distinct_fingerprints,distinct_payloads,avg_payload_length,q1q3_delta,top_port,top_fingerprint,generation_algorithm,top_start_hour,top_end_hour,label
+881245,881290,3667288617.0,3667288576.0,20,4766.0,KR,Seo-gu,86207.6,19350.0,21.4,4.0,-17980512.1,-78.25,17979330.95,2449.5,2606.85,1.0707690011300257,1.05,1.0,0.0,-1181.15,22.0,11.0,5.0,0.0,23.0,61323
+887061,887106,3696654049.0,3696653824.0,20,4766.0,KR,Gangseo-gu,86138.65,57175.0,9.75,4.0,-15290870.9,-228.55,15288819.85,939.95,947.5,1.007883586979505,1.05,1.0,0.0,-2051.05,22.0,11.0,5.0,0.0,23.0,61323
+900448,900493,3731725633.0,3731725568.0,20,4766.0,KR,Gwangjin-gu,86141.2,102600.0,1.0,1.0,-13499738.35,198.4,11707541.7,570.45,602.8,1.0542751569585456,1.05,1.0,0.0,-1792196.65,22.0,11.0,5.0,0.0,23.0,61323

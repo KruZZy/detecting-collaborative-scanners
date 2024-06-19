@@ -1,0 +1,4 @@
+,Unnamed: 0,src_ip,subnet,active_days,asn,country,city,scan_length_seconds,median_time_diff,distinct_src_ports,distinct_dest_ports,q1_prev_ip,median_prev_ip,q3_prev_ip,distinct_ips,total_hits,probes_per_ip,distinct_fingerprints,distinct_payloads,avg_payload_length,q1q3_delta,top_port,top_fingerprint,generation_algorithm,top_start_hour,top_end_hour,label
+95545,95550,661201685.0,661201664.0,20,37963.0,CN,Beijing,86352.4,8350.0,4860.1,2.0,-35964.25,0.0,35564.15,4634.2,6741.8,1.4628249826342945,1.1,1.0,0.0,-400.1,22.0,11.0,5.0,0.0,23.0,13586
+147072,147077,795663644.0,795663616.0,20,37963.0,CN,Chengdu,86361.5,8400.0,5119.4,2.0,-948666.75,0.0,7214500.3,5519.1,7077.35,1.288182771671834,1.0,1.0,0.0,6265833.55,2222.0,11.0,5.0,0.0,23.0,13586
+147153,147158,795993225.0,795993088.0,20,37963.0,CN,Shenzhen,86370.85,5650.0,6338.75,2.0,-34855.55,0.0,35143.2,6061.05,10090.05,1.6661744478009095,1.2,1.0,0.0,287.65,22.0,11.0,5.0,0.0,23.0,13586

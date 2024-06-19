@@ -1,0 +1,4 @@
+,Unnamed: 0,src_ip,subnet,active_days,asn,country,city,scan_length_seconds,median_time_diff,distinct_src_ports,distinct_dest_ports,q1_prev_ip,median_prev_ip,q3_prev_ip,distinct_ips,total_hits,probes_per_ip,distinct_fingerprints,distinct_payloads,avg_payload_length,q1q3_delta,top_port,top_fingerprint,generation_algorithm,top_start_hour,top_end_hour,label
+130986,130991,764672720.0,764672512.0,20,36007.0,IT,Milan,85703.3,850.0,26696.2,24.7,-17979054.4,-52.3,17979307.55,46317.75,88038.7,1.9026245828470087,1.0,1.0,0.0,253.15,4643.0,1.0,5.0,0.0,23.0,944
+130987,130992,764672734.0,764672512.0,20,36007.0,IT,Milan,85566.45,900.0,26750.15,23.05,-17979041.8,26.075,17979185.55,45352.9,88730.65,1.9551318755212208,1.0,1.0,0.0,143.75,8881.0,1.0,5.0,0.0,23.0,944
+130988,130993,764672745.0,764672512.0,20,36007.0,IT,Milan,85444.65,900.0,26687.65,28.05,-17979616.35,115.25,17979426.95,45545.8,89044.8,1.952443656323568,1.0,1.0,0.0,-189.4,3389.0,1.0,5.0,0.0,23.0,944

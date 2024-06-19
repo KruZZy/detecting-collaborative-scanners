@@ -1,0 +1,4 @@
+,Unnamed: 0,src_ip,subnet,active_days,asn,country,city,scan_length_seconds,median_time_diff,distinct_src_ports,distinct_dest_ports,q1_prev_ip,median_prev_ip,q3_prev_ip,distinct_ips,total_hits,probes_per_ip,distinct_fingerprints,distinct_payloads,avg_payload_length,q1q3_delta,top_port,top_fingerprint,generation_algorithm,top_start_hour,top_end_hour,label
+778273,778316,3114399864.0,3114399744.0,20,49202.0,RU,,86386.0,0.0,6.9,6.9,-13472.3,9.0,16756.1,62187.4,378834.95,6.099059572469168,3.0,1.0,0.0,3283.8,2202.0,11.0,6.0,0.0,23.0,46412
+797794,797837,3165484350.0,3165484288.0,20,48161.0,RO,Tulcea,84613.9,577125.0,1.0,1.0,-10809960.85,-221.175,11709900.55,101.95,107.2,1.050561797752809,1.0,1.0,0.0,899939.7,22.0,11.0,5.0,0.0,23.0,46412
+867348,867393,3569404535.0,3569404416.0,20,51200.0,RU,Rostov-on-Don,84252.5,93525.0,372.0,1.0,-6028.55,0.7,5924.3,370.85,373.45,1.0059463602731633,1.0,1.0,0.0,-104.25,1433.0,11.0,5.0,0.0,23.0,46412
