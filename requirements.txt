@@ -1,0 +1,6 @@
+jupyterlab==4.1.6
+pandas==2.1.2
+numpy==1.26.1
+scikit-learn==1.4.2
+hdbscan==0.8.33
+matplotlib==3.5.1
