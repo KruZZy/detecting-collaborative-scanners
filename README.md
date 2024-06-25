@@ -1,6 +1,6 @@
 ## Detecting Collaborative Scanners based on Shared Behavioral Features
 
-This project hosts the code and intermediary data used during the CSE3000 Research Project course at TU Delft, in Q4 23/24. 
+This project hosts the code and intermediary data used during the [CSE3000 Research Project](https://github.com/TU-Delft-CSE/Research-Project) course at [TU Delft](https://github.com/TU-Delft-CSE), in Q4 23/24. 
 The work uses network telescope data with HDBSCAN and DBSCAN to cluster collaborative scanners based on shared behavioral features, such as the median inter-packet time, tool, IP generation algorithm, scan length, source/destination ports.
 
 ### Notice 
